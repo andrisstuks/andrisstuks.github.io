@@ -2,8 +2,8 @@
 ### Sapflow in tomato
 
 Some time ago we performed a similar trial, but then we were focusing more on stem diameter than on sap flow, however, if you look at 
-[video] (https://www.youtube.com/watch?v=NIL55mdzTqU) 
-and will carefully observe the top part of the video, you will see that there is quite some leaf movement, so it should be pressure, what we could measure as a difference in sap flow.
+https://www.youtube.com/watch?v=NIL55mdzTqU
+and will carefully observe the top part of the video, you will see that there is quite some leaf movement, so it should be pressure, which we could measure as a difference in sap flow.
 
 Now, when we learn the underlying processes of plant responses to environmental practices, we will build better plant steering algorithms and cheaper ways to achieve more.
 
